@@ -1,0 +1,12 @@
+UP =  W
+UPL = w
+DOWN = S
+DOWNL = s
+LEFT = A
+LEFTL = a
+RIGHT = D
+RIGHTL = d
+RESTART = R
+RESTARTL = r
+YES = Y
+YESL = y
